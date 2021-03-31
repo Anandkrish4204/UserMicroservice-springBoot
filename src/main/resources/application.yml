@@ -1,0 +1,9 @@
+server:
+  port: 7071
+spring:
+  application:
+    name: usermicroservice
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
